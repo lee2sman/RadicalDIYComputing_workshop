@@ -1,5 +1,7 @@
 # RadicalDIYComputing_workshop
 
+![](images/radical_diy_computing_workshop_meme_image.png)
+
 ## About
 
 This repository contains the lesson plan, zine and presentation from the Skillshare Workshop *Radical DIY Computing* hosted and supported by Side Street Projects at The Armory Center For The Arts, Pasadena
@@ -7,7 +9,7 @@ This repository contains the lesson plan, zine and presentation from the Skillsh
 ## Contents
 * [PDF](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/radical_computing_presentation_ver1.pdf) with slides of presentation (7mb)
 * [Zine text](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/RadicalComputing_zine_text.md)
-* [PDF of Zine ](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/workshop%20zine%20C2.pdf) 
+* [PDF of Zine ](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/workshop%20zine%20C2.pdf)
 * [Workshop Lesson Plan Outline](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/WorkshopLessonPlan.md)
 * [Resources and Links](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/Resources.md) to learn more
 
