@@ -2,7 +2,7 @@
 
 ## CHIP and Next Thing Co
 * [CHIP Documentation](docs.getchip.com) is the complete manual for the CHIP computer and CHIP OS by Next Thing Co
-* [BBS] on Next Thing Co(bbs.nextthing.co) is the community forum for discussing CHIP
+* [BBS](http://bbs.nextting.co) on Next Thing Co is the community forum for discussing CHIP
 * Next Thing Co's [blog](blog.nextthing.co) with news and projects with CHIP
 * [Install](https://docs.getchip.com/chip.html#install-and-update-software) new software (Scratch, Minecraft, etc) on Chip
 
@@ -13,7 +13,7 @@
 * A good [Lifehacker article](http://lifehacker.com/5778882/getting-started-with-linux-the-complete-guide) answering the question *Why Linux?*
 
 ## Games
-* Chip was built to work with the [Pico8](pico8.com) game development system. Commandline install instructions [here](http://blog.nextthing.co/pico-8-now-free-for-all-c-h-i-p-s/)
+* Chip was built to work with the [Pico8](http://pico8.com) game development system. Commandline install instructions [here](http://blog.nextthing.co/pico-8-now-free-for-all-c-h-i-p-s/)
 * Pico8 [learning resources](http://blog.nextthing.co/resources-to-help-you-learn-pico-8-game-development/) and zines
 * Install [Minecraft](http://blog.nextthing.co/play-minecraft-on-your-c-h-i-p-pocketc-h-i-p/) on CHIP
 * A [History of Shareware](http://blog.nextthing.co/a-brief-history-of-shareware-software-how-to-run-it-on-pocketc-h-i-p-with-dosbox/) post with info on how to run DosBox on PocketCHIP  to play old 80s and 90s videogames (instructions are for PocketCHIP, very similar to your CHIP, but you may have to experiment to get it to work with your screen size and buttons)
