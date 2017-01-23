@@ -24,7 +24,7 @@ This repository contains the lesson plan, zine and presentation from the Skillsh
 * Gain basic understanding of the Terminal commandline, how to access and enter basic commands, and understand its purpose and *philosophy*
 
 ## ADMIN
-* Your workshop leaders are [Lee Tusman](twitter.com/2sman2sman) and [Echo Theohar](twitter.com/eskyet_text)
-* [Side Street Projects](sidestreet.org) organized and supported the kickoff Skillshare workshop. Sidestreet hosts a series of upcoming [Skill Shares](http://sidestreet.org/skills)
+* Your workshop leaders are [Lee Tusman](http://twitter.com/2sman2sman) and [Echo Theohar](http://twitter.com/eskyet_text)
+* [Side Street Projects](http://sidestreet.org) organized and supported the kickoff Skill Share workshop. Side Street hosts a series of upcoming [Skill Shares](http://sidestreet.org/skills)
 * Comments, corrections or questions welcome.
 * Thank you to everyone who participated in our Skill Share.
