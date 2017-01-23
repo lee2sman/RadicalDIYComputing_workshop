@@ -19,5 +19,6 @@ This repository contains the lesson plan, zine and presentation from the Skillsh
 * Feel more confident looking under the hood of a computer and its operating system and tinkering with it
 * Understand the history and philosophy and tools of Linux
 * Review software and example projects using CHIP
+* Discuss purpose and possibilities for decentralized computing, darknets and mesh networking, piratebox, etc
 * Learn about resources for further learning, community and exploration
 * Gain basic understanding of the Terminal commandline, how to access and enter basic commands, and understand its purpose and *philosophy*
