@@ -1,10 +1,10 @@
-# Introduction 
+# Introduction
 *15 minutes*
 
 * Welcome/Who Are We?
 * Background of participants
 
-# Intro to Linux and Open Source culture 
+# Intro to Linux and Open Source culture
 
 *15 minutes*
 
@@ -29,13 +29,13 @@
 * Proprietary vs Free
 * Free vs Open Source
 
-# Define Computer Hardware And Parts 
+# Define Computer Hardware And Parts
 *45 Minutes*
 
 * CHIP computer board
 * 2Amp Power Supply for CHIP
 * Input Devices (keyboard, mouse)
-* Powered USB Hub with Wall Adaptor 
+* Powered USB Hub with Wall Adaptor
 * Output Devices (Display, Speaker)
 * Monitor cable (depending on type of monitor - composite, VGA, HDMI)
 	* Composite Cable OR
@@ -52,8 +52,11 @@
 # Example projects with CHIP
 *15 minutes*
 
-* Show some example projects
-* What is CHIP useful for?
+## Decentralized Networks
+* OwnCloud
+* CHIPirateBox
+* voice control
+* Chippy Ruxpin
 
 # Commandline
 *30 minutes*
@@ -63,4 +66,3 @@
 * Update and download telnet via apt-get
 * Blinkenlights (Star Wars)
 * Point to resources for continuing self-learning and community
-
