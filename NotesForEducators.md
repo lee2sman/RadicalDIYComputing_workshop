@@ -21,8 +21,9 @@
 
 This is an example. Your total price varies based on what you buy versus what you already have or find.
 
+
 Item | Price | Optional?
---- | ---
+--- | --- | ---
 Chip | $9 | no
 Chip case | $2 | yes
 miniUSB cable | 0.50 | no
