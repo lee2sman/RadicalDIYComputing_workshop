@@ -12,6 +12,7 @@ This repository contains the lesson plan, zine and presentation from the Skillsh
 * [PDF of Zine ](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/workshop%20zine%20C2.pdf)
 * [Workshop Lesson Plan Outline](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/WorkshopLessonPlan.md)
 * [Resources and Links](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/Resources.md) to learn more
+* [Notes For Educators](https://github.com/lee2sman/RadicalDIYComputing_workshop/blob/master/NotesForEducators.md)
 
 ## Goals
 * Build a Linux computer with the CHIP computer as a base and pre-installed ChipOS
